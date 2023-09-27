@@ -1,5 +1,5 @@
 ## nH0pe  👋
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>  
+<p align="center"><img src="https://github.com/guxiatongxue/guxiatongxue/blob/main/gif/RThN0hOS2GO4M.gif" /></p>  
 
 🌱 关于我
 - 半吊子网络安全人员，都只能会一点点  
