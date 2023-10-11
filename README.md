@@ -15,13 +15,9 @@
 
 ⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 77.58 %
 
+⏰ Updated on Wed, 11 Oct 2023 03:48:42 GMT
+
 ---
-
-⏰ Updated on Wed, 11 Oct 2023 03:43:40 GMT
-
-![Progress Bar CI](https://github.com/guxiatongxue/guxiatongxue/workflows/Progress%20Bar%20CI/badge.svg)
-
-
 <p align="center">
 <img align="center" src="https://github-readme-stats-six-plum-27.vercel.app/api?username=guxiatongxue&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="nH0pe's Github Stats" />
 <img align="center" src="https://github-readme-stats-six-plum-27.vercel.app/api/top-langs/?username=guxiatongxue&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
