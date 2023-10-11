@@ -14,6 +14,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
+
 ## nH0pe  👋
 <p align="center"><img src="https://github.com/guxiatongxue/guxiatongxue/blob/main/gif/RThN0hOS2GO4M.gif" /></p>
 
@@ -29,9 +30,13 @@ const readme = `\
 ## 今年汇总 ✨
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+
 ---
+
 ⏰ Updated on ${new Date().toUTCString()}
----
+
+![Progress Bar CI](https://github.com/guxiatongxue/guxiatongxue/workflows/Progress%20Bar%20CI/badge.svg)\
+`
 
 <p align="center">
 <img align="center" src="https://github-readme-stats-six-plum-27.vercel.app/api?username=guxiatongxue&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="nH0pe's Github Stats" />
@@ -42,3 +47,5 @@ const readme = `\
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guxiatongxue/guxiatongxue/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
+
+console.log(readme)
